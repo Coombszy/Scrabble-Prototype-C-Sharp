@@ -1,0 +1,6 @@
+F:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\bin\Release\Scrabble-Prototype.exe.config
+F:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\bin\Release\Scrabble-Prototype.exe
+F:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\bin\Release\Scrabble-Prototype.pdb
+F:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\obj\Release\Scrabble-Prototype.csproj.CoreCompileInputs.cache
+F:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\obj\Release\Scrabble-Prototype.exe
+F:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\obj\Release\Scrabble-Prototype.pdb

@@ -1,0 +1,26 @@
+F:\Scrabble-Prototype\Scrabble-Prototype\bin\Debug\Scrabble-Prototype.exe.config
+F:\Scrabble-Prototype\Scrabble-Prototype\bin\Debug\Scrabble-Prototype.exe
+F:\Scrabble-Prototype\Scrabble-Prototype\bin\Debug\Scrabble-Prototype.pdb
+F:\Scrabble-Prototype\Scrabble-Prototype\obj\Debug\Scrabble-Prototype.csprojResolveAssemblyReference.cache
+F:\Scrabble-Prototype\Scrabble-Prototype\obj\Debug\Scrabble-Prototype.csproj.CoreCompileInputs.cache
+F:\Scrabble-Prototype\Scrabble-Prototype\obj\Debug\Scrabble-Prototype.exe
+F:\Scrabble-Prototype\Scrabble-Prototype\obj\Debug\Scrabble-Prototype.pdb
+F:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\bin\Debug\Scrabble-Prototype.exe.config
+F:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\bin\Debug\Scrabble-Prototype.exe
+F:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\bin\Debug\Scrabble-Prototype.pdb
+F:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\obj\Debug\Scrabble-Prototype.csprojResolveAssemblyReference.cache
+F:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\obj\Debug\Scrabble-Prototype.csproj.CoreCompileInputs.cache
+F:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\obj\Debug\Scrabble-Prototype.exe
+F:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\obj\Debug\Scrabble-Prototype.pdb
+D:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\bin\Debug\Scrabble-Prototype.exe.config
+D:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\obj\Debug\Scrabble-Prototype.exe
+D:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\obj\Debug\Scrabble-Prototype.pdb
+D:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\bin\Debug\Scrabble-Prototype.exe
+D:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\bin\Debug\Scrabble-Prototype.pdb
+D:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\bin\Debug\mscorlib.dll
+D:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\bin\Debug\normidna.nlp
+D:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\bin\Debug\normnfc.nlp
+D:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\bin\Debug\normnfd.nlp
+D:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\bin\Debug\normnfkc.nlp
+D:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\bin\Debug\normnfkd.nlp
+D:\Computing Project\Scrabble-Prototype\Scrabble-Prototype\obj\Debug\Scrabble-Prototype.csprojResolveAssemblyReference.cache
